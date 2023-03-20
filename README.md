@@ -17,7 +17,7 @@ If you find this code useful in your research, please consider citing:
 
 ## The Algorithm: LocalPower
 
-![image](fig/procedure.pdf)
+![image](fig/procedure.png)
 
 ## Table of contents
 |File name   | Description |
