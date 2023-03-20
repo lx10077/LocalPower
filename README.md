@@ -19,7 +19,7 @@ If you find this code useful in your research, please consider citing:
 
 ![image](fig/procedure.png)
 
-## Table of contents
+## Table of Contents
 |File name   | Description |
 | :-----       | :----       |
 |pm.py         | Main functions for various algorithms   |
@@ -29,4 +29,3 @@ If you find this code useful in your research, please consider citing:
 |plot_decay.py | Code for Table 7 and Figure 8-10|
 |plot_m.py     | Code for Figure 11-12 |
 |plot_sin.py   | Code for Figure 13  |
-
