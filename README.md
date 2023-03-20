@@ -17,11 +17,10 @@ If you find this code useful in your research, please consider citing:
 
 ## The Algorithm: LocalPower
 
-![](https://github.com/lx10077/LocalPower/blob/main/procedure.pdf)
+![image](https://github.com/lx10077/LocalPower/blob/main/procedure.pdf)
 
 ## Table of contents
-
-｜ File name   | Description |
+|File name   | Description |
 | :-----       | :----       |
 |pm.py         | Main functions for various algorithms   |
 |one-shot.py   | Code for Table 1|
@@ -30,7 +29,4 @@ If you find this code useful in your research, please consider citing:
 |plot_decay.py | Code for Table 7 and Figure 8-10|
 |plot_m.py     | Code for Figure 11-12 |
 |plot_sin.py   | Code for Figure 13  |
-
-
-## Citation 
 
