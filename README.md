@@ -17,7 +17,7 @@ If you find this code useful in your research, please consider citing:
 
 ## The Algorithm: LocalPower
 
-![image](https://github.com/lx10077/LocalPower/blob/main/procedure.pdf)
+![image](fig/procedure.pdf)
 
 ## Table of contents
 |File name   | Description |
